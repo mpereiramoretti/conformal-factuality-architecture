@@ -1,0 +1,82 @@
+{
+    "Fold 1": {
+        "accepted-subclaims-fraction-metric_mean": 0.12,
+        "accepted-subclaims-fraction-metric_std": 0.24813752459295632,
+        "correlation-cf-metric_mean": 0.8496865517742787,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.30322146002363154,
+        "merged-cosine-similarity-metric_std": 0.36448475192209334
+    },
+    "Fold 2": {
+        "accepted-subclaims-fraction-metric_mean": 0.42095236,
+        "accepted-subclaims-fraction-metric_std": 0.4157899682900375,
+        "correlation-cf-metric_mean": 0.9921060303735818,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.5744349856446272,
+        "merged-cosine-similarity-metric_std": 0.38799770701110115
+    },
+    "Fold 3": {
+        "accepted-subclaims-fraction-metric_mean": 0.35666668,
+        "accepted-subclaims-fraction-metric_std": 0.4060446109043409,
+        "correlation-cf-metric_mean": 0.9742227126648,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.5462953263766888,
+        "merged-cosine-similarity-metric_std": 0.4098349152175718
+    },
+    "Fold 4": {
+        "accepted-subclaims-fraction-metric_mean": 0.285,
+        "accepted-subclaims-fraction-metric_std": 0.4122566568427004,
+        "correlation-cf-metric_mean": 0.990002228592201,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.3964347835644112,
+        "merged-cosine-similarity-metric_std": 0.4177269588507324
+    },
+    "Fold 5": {
+        "accepted-subclaims-fraction-metric_mean": 0.50333332,
+        "accepted-subclaims-fraction-metric_std": 0.40635918441149776,
+        "correlation-cf-metric_mean": 0.9797516037102008,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.6621083619401951,
+        "merged-cosine-similarity-metric_std": 0.3718745236981181
+    },
+    "Fold 6": {
+        "accepted-subclaims-fraction-metric_mean": 0.35833332,
+        "accepted-subclaims-fraction-metric_std": 0.3905124846489515,
+        "correlation-cf-metric_mean": 0.9800974246091484,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.5313763856952444,
+        "merged-cosine-similarity-metric_std": 0.39699890159562895
+    },
+    "Fold 7": {
+        "accepted-subclaims-fraction-metric_mean": 0.42666668,
+        "accepted-subclaims-fraction-metric_std": 0.42789536332563544,
+        "correlation-cf-metric_mean": 0.9785548546018709,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.5843254695837642,
+        "merged-cosine-similarity-metric_std": 0.38765038286636294
+    },
+    "Fold 8": {
+        "accepted-subclaims-fraction-metric_mean": 0.2745238,
+        "accepted-subclaims-fraction-metric_std": 0.36360940365496597,
+        "correlation-cf-metric_mean": 0.9949463927097478,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.43775122423784807,
+        "merged-cosine-similarity-metric_std": 0.4076352017410715
+    },
+    "Fold 9": {
+        "accepted-subclaims-fraction-metric_mean": 0.25166664,
+        "accepted-subclaims-fraction-metric_std": 0.36218472278967034,
+        "correlation-cf-metric_mean": 0.9903802394356123,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.39116519835517144,
+        "merged-cosine-similarity-metric_std": 0.4051882635729001
+    },
+    "Fold 10": {
+        "accepted-subclaims-fraction-metric_mean": 0.34904764,
+        "accepted-subclaims-fraction-metric_std": 0.41830929792352256,
+        "correlation-cf-metric_mean": 0.9970724532523887,
+        "correlation-cf-metric_std": 0.0,
+        "merged-cosine-similarity-metric_mean": 0.4474216715010002,
+        "merged-cosine-similarity-metric_std": 0.4372478792089038
+    }
+}
